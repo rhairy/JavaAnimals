@@ -1,4 +1,4 @@
-prgsrc=src/main/com/rhairy/animals/Cat.java
+prgsrc=src/test/Test.java
 classpath=src/main
 target=target
 

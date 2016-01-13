@@ -5,7 +5,7 @@ package com.rhairy.animals;
 public class Animal
 {
 	// Private instance variables.
-	private int m_age
+	private int m_age;
 	private boolean m_alive;
 	private String m_name;
 
